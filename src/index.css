@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+/* .MuiOutlinedInput-notchedOutline {
+    border-color: transparent !important;
+    outline: none !important;
+  }
+
+  .css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+    border-color: black !important;
+    outline: none !important;
+  } */
+textarea:focus,
+input:focus {
+  outline: none;
+}
+
+input {
+  color: red;
+}
+
+textarea::placeholder {
+  color: #bebebe;
+}
+
+.outer {
+  width: 100px;
+  height: 50px;
+  overflow: hidden;
+  background: orange;
+}
+
+.inner {
+  transition: all 0.3s;
+  width: 100%;
+  height: 100%;
+  background: red;
+}
+
+.outer:hover > .inner {
+  transform: translateY(-100%);
+}

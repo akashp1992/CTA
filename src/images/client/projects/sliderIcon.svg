@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="15" viewBox="0 0 30 15">
+  <g id="Group_3068" data-name="Group 3068" transform="translate(-537 -588)">
+    <rect id="Rectangle_3595" data-name="Rectangle 3595" width="30" height="15" rx="7.5" transform="translate(537 588)" fill="#06283d"/>
+    <g id="Icon_ionic-ios-arrow-dropdown" data-name="Icon ionic-ios-arrow-dropdown" transform="translate(562.633 582.017) rotate(90)">
+      <path id="Path_4117" data-name="Path 4117" d="M10.18,14.614a.68.68,0,0,0,0,.958l3.359,3.348a.677.677,0,0,0,.934.021l3.31-3.3a.676.676,0,1,0-.955-.958l-2.843,2.8L11.138,14.61A.677.677,0,0,0,10.18,14.614Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+    <g id="Icon_ionic-ios-arrow-dropdown-2" data-name="Icon ionic-ios-arrow-dropdown" transform="translate(559.22 592) rotate(90)">
+      <path id="Path_4117-2" data-name="Path 4117" d="M.2,4.5a.68.68,0,0,1,0-.958L3.556.2A.677.677,0,0,1,4.49.177l3.31,3.3a.676.676,0,1,1-.955.958L4,1.633,1.156,4.508A.677.677,0,0,1,.2,4.5Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

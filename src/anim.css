@@ -1,0 +1,14 @@
+svg .svg-elem-1 {
+    stroke-dashoffset: 2715.66064453125px;
+    stroke-dasharray: 2715.66064453125px;
+    fill: transparent;
+    -webkit-transition: stroke-dashoffset 5s cubic-bezier(0.47, 0, 0.745, 0.715) 0s,
+                          fill 5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.8s;
+            transition: stroke-dashoffset 5s cubic-bezier(0.47, 0, 0.745, 0.715) 0s,
+                  fill 5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.8s;
+  }
+  
+  svg.active .svg-elem-1 {
+    stroke-dashoffset: 0;
+    fill: rgba(0, 0, 0, 0);
+  }

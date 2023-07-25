@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "details": "aaa",
+        "no": 55,
+        "status": "Deactive"
+    },
+    {
+        "id": 2,
+        "details": "Lorem ipsum dolor sit ",
+        "no": 10,
+        "status": "Active"
+    },
+    {
+        "id": 3,
+        "details": "aaa",
+        "no": 55,
+        "status": "Deactive"
+    },
+    {
+        "id": 4,
+        "details": "Lorem ipsum dolor sit ",
+        "no": 10,
+        "status": "Active"
+    },
+    {
+        "id": 99,
+        "details": "aaa",
+        "no": 55,
+        "status": "Deactive"
+    },
+    {
+        "id": 1245,
+        "details": "Lorem ipsum dolor sit ",
+        "no": 10,
+        "status": "Active"
+    }
+]
